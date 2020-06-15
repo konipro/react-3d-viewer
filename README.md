@@ -1,4 +1,4 @@
-English| [简体中文](./README.CN.md)
+English
 
 # react-3d-viewer [![](https://img.shields.io/npm/v/react-3d-viewer.svg)](https://www.npmjs.com/package/react-3d-viewer)
 
@@ -6,7 +6,8 @@ A 3D model viewer component based on react.js. Demo located at https://dwqdaiwen
 
 <img src="./preview2.jpg" style="margin:0 auto; width:699px;  ">
        
-## Features      
+## Features     
+* Konipro Feature: Adjust the size of the canvas freely
 * Component-Based
 * Update UI using `.setState()` method
 * Support gltf,obj,mtl,json,dae model formats - other formats will be added in the future.
